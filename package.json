@@ -2,7 +2,7 @@
   "name": "edgar-api-client",
   "version": "0.0.1",
   "description": "Javascript client for edgar sec restful api",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
