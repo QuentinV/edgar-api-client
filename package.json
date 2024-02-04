@@ -1,0 +1,22 @@
+{
+  "name": "edgar-api-client",
+  "version": "0.0.1",
+  "description": "Javascript client for edgar sec restful api",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuentinV/edgar-api-client.git"
+  },
+  "author": "Quentin Vanhauteghem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuentinV/edgar-api-client/issues"
+  },
+  "homepage": "https://github.com/QuentinV/edgar-api-client#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
